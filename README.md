@@ -1,1 +1,2 @@
 # internship_practice_qrcode
+自己練習qrcode
